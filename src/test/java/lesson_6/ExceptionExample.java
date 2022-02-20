@@ -16,13 +16,13 @@ public class ExceptionExample {
                 {"1", "2", "3", "4"}};
         checkArray(wrongDimensionArray);
 
-        String[][] wrongDimensionArray4x3 = new String[][]{
+        String[][] wrongDimensionArray4x5 = new String[][]{
                 {"1", "2", "3", "4"},
                 {"1", "2", "3", "4"},
                 {"1", "2", "3", "4"},
                 {"1", "2", "3", "4"},
                 {"1", "2", "3", "4"}};
-        checkArray(wrongDimensionArray4x3);
+        checkArray(wrongDimensionArray4x5);
 
         String[][] wrongElementArray = new String[][]{
                 {"1", "2", "3", "4"},

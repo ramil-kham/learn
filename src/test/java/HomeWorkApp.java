@@ -8,7 +8,7 @@ public class HomeWorkApp {
 
     public static void printThreeWords() {
         System.out.println("Orange1");
-        System.out.println("Banana1");
+        System.out.println("Banana");
         System.out.println("Apple");
     }
 
